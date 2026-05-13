@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer<br>Have Interest in Reasearch Area <br>
+Developing Some Stuff  <br>
 
 
 ## 🌐 Socials:
