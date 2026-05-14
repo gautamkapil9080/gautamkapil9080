@@ -1,13 +1,9 @@
-# Hi, I'm Gautam Kapil 👋
-
-Developing some stuff.
-
----
+Developing,Exploring,Abosring the stuff
 
 ### About
-- 🔭 Working on personal projects
-- 🌱 Learning and building in public
-- 📫 Reach me at **your@email.com**
+-  Working on personal projects
+-  Learning and building in public
+- 📫 Reach me at **gautamkapil9080@gmail.com**
 
 ---
 
@@ -24,5 +20,6 @@ Developing some stuff.
 ---
 
 ### Connect
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/your_handle)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/kapilfydotcom)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gautamkapil9080@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/gautamkapil9080)
