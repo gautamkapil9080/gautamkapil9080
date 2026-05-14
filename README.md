@@ -1,4 +1,4 @@
-Developing,Exploring,Abosring the stuff
+Developing,Exploring,Research
 
 ### About
 -  Working on personal projects
